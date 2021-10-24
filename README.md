@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy, partner!
 
 <!--
 **vyshnovka/vyshnovka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+It's me, Vikulishna, and I am a beginner developer.
