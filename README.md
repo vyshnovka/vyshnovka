@@ -11,15 +11,17 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-It's me, Vikulishna, and I'm a beginner developer.
+It's me, **Vikulishna**, and I'm a beginner developer.
 
-I'm currently (and protractedly) interested in Web applications, Game development and 3D modeling.
+I'm currently (and protractedly) interested in **Web applications**, **Game development** and **3D modeling**.   
+
 
 ## Languages
 
 ![image](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-e09d28?style=for-the-badge&logo=javascript&logoColor=white) 
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![image](https://img.shields.io/badge/C%23-67217a?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Tools
