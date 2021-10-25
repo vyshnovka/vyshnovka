@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
@@ -12,7 +11,7 @@
 It's me, **Vikulishna**, and I'm a beginner developer.
 
 I'm currently (and protractedly) interested in **Web applications**, **Game development** and **3D modeling**.   
-
+Looking for help with inspiration, ready to join some cool projects.
 
 ## Languages
 
@@ -28,6 +27,8 @@ I'm currently (and protractedly) interested in **Web applications**, **Game deve
 ![image](https://img.shields.io/badge/Electron-31374d?style=for-the-badge&logo=electron&logoColor=white) 
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+##
 
 If you are interested in collaboration - send me an email to get exclusive access to my awesome CV.   
 You can also write me on discord (vikulishna#1954) for a more casual talk.
