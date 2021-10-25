@@ -25,12 +25,11 @@ Looking for help with inspiration, ready to join some cool projects.
 
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![image](https://img.shields.io/badge/Electron-31374d?style=for-the-badge&logo=electron&logoColor=white) 
+![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-##
+##   
 
-If you are interested in collaboration - send me an email to get exclusive access to my awesome CV.   
-You can also write me on discord (vikulishna#1954) for a more casual talk.
-
-<!-- https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white -->
+If you are interested in collaboration - send me an email to get *exclusive access* to my awesome CV.   
+You can also write me on Discord (vikulishna#1954) for a more casual talk.
