@@ -11,9 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-It's me, Vikulishna, and I'm a beginner developer.   
+It's me, Vikulishna, and I'm a beginner developer.
+
 I'm currently (and protractedly) interested in Web applications, Game development and 3D modeling.
 
-**Languages:** JavaScript, C#
-
+**Languages:** JavaScript, C#   
 **Tools:** Node.js, Unity, Blender
