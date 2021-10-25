@@ -29,6 +29,8 @@ I'm currently (and protractedly) interested in **Web applications**, **Game deve
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-If you are interested in collaboration - send me an email to get exclusive access to my awesome CV.
+If you are interested in collaboration - send me an email to get exclusive access to my awesome CV.   
+You can also write me on discord for a more casual talk.
+![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) vikulishna#1954
 
 <!-- https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white -->
