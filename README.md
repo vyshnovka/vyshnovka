@@ -29,5 +29,7 @@ Looking for help with inspiration, ready to join some cool projects.
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+###    
+
 If you are interested in collaboration - send me an email to get *exclusive access* to my awesome CV.   
 You can also write me on Discord (vikulishna#1954) for a more casual talk.
