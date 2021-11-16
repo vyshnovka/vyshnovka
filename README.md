@@ -11,7 +11,7 @@
 It's me, **Vikulishna**, and I'm a beginner developer.
 
 I'm currently (and protractedly) interested in **Web applications**, **Game development** and **3D modeling**.   
-Looking for help with inspiration, ready to join some cool projects.
+Looking for help with inspiration, ready to join some cool and intriguing projects.
 
 ## Languages
 
@@ -19,7 +19,7 @@ Looking for help with inspiration, ready to join some cool projects.
 ![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-e09d28?style=for-the-badge&logo=javascript&logoColor=white) 
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![image](https://img.shields.io/badge/C%23-67217a?style=for-the-badge&logo=c-sharp&logoColor=white)
+![image](https://img.shields.io/badge/C%23-67217a?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 ## Tools
 
@@ -29,7 +29,7 @@ Looking for help with inspiration, ready to join some cool projects.
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-###    
+###     
 
 If you are interested in collaboration − send me an email to get *exclusive access* to my awesome CV.   
-You can also write me on Discord ([vikulishna#1954](https://discordapp.com/users/344130090583719938/)) for a more casual talk.
+You can also write me on Discord (*vikulishna#1954*) for a more casual talk.
