@@ -36,5 +36,4 @@ You can also write me on Discord (vikulishna#1954) for a more casual talk.
 
 ###    
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=white)
-
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite&hideBorder)
