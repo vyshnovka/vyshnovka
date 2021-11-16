@@ -32,4 +32,4 @@ Looking for help with inspiration, ready to join some cool projects.
 ###    
 
 If you are interested in collaboration − send me an email to get *exclusive access* to my awesome CV.   
-You can also write me on Discord (vikulishna#1954) for a more casual talk.
+You can also write me on Discord ([vikulishna#1954](https://discordapp.com/users/344130090583719938/)) for a more casual talk.
