@@ -18,8 +18,7 @@ Looking for help with inspiration, ready to join some cool and intriguing projec
 ![image](https://img.shields.io/badge/HTML-e33c26?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-e09d28?style=for-the-badge&logo=javascript&logoColor=white) 
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![image](https://img.shields.io/badge/C%23-67217a?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![image](https://img.shields.io/badge/C%23-7b3399?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 ## Tools
 
