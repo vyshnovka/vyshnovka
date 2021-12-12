@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-It's me, **Vikulishna**, and I'm a beginner developer.
+It's me, **Vykula**, and I'm a beginner developer.
 
 I'm currently (and protractedly) interested in **Web applications**, **Game development** and **3D modeling**.   
 Looking for help with inspiration, ready to join some cool and intriguing projects.
