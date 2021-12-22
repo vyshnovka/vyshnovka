@@ -22,6 +22,7 @@ Basic skills:
 
 ## Tools
 
+Main basis:    
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![image](https://img.shields.io/badge/Heroku-8e6eb2?style=for-the-badge&logo=heroku&logoColor=white) 
@@ -29,7 +30,7 @@ Basic skills:
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)    
 Exceptional tools are indicated in the project descriptions.
 
-###     
+##     
 
 If you are interested in collaboration − send me an email to get *exclusive access* to my awesome CV.   
 You can also write me on Discord (*vikulishna#1954*) for a more casual talk.
