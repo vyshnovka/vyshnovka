@@ -26,15 +26,10 @@ Basic skills:
 
 Main basis:    
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![image](https://img.shields.io/badge/Heroku-8e6eb2?style=for-the-badge&logo=heroku&logoColor=white) 
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
-![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-
-Additionally:    
-![image](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white) 
-![image](https://img.shields.io/badge/Electron-31374d?style=for-the-badge&logo=electron&logoColor=white) 
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
+![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
 
 Exceptional tools are indicated in the project descriptions.
 
