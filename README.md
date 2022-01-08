@@ -1,6 +1,6 @@
 # Howdy, partner!
 
-It's me, **Vykula**, and I'm a beginner developer.
+It's me, **Viktoria**, and I'm a beginner developer.
 
 I'm currently (and protractedly) interested in **Web applications**, **Game development** and **3D modeling**.   
 Recently started working on procedural generation and non-euclidean spaces.
