@@ -37,7 +37,6 @@ Exceptional tools are indicated in the project descriptions.
 
 Don't hesitate to take a look at my portfolio.
 
-[![image](https://custom-icon-badges.herokuapp.com/badge/Portfolio-67aabf?style=for-the-badge&logo=spaceinvaders&logoColor=white)](https://vyshnovka.github.io/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktoria.zheneral@gmail.com)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/344130090583719938/)
 
