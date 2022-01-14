@@ -37,9 +37,14 @@ Exceptional tools are indicated in the project descriptions.
 
 Don't hesitate to take a look at my portfolio.
 
-If you are interested in collaboration − send me an email to get ***exclusive access*** to an awesome CV.   
-You can also write me on Discord for a more casual talk.
-
 [![image](https://custom-icon-badges.herokuapp.com/badge/Portfolio-67aabf?style=for-the-badge&logo=spaceinvaders&logoColor=white)](https://vyshnovka.github.io/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktoria.zheneral@gmail.com)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/344130090583719938/)
+
+If you are interested in collaboration − send me an email to get ***exclusive access*** to an awesome CV.   
+You can also write me on Discord for a more casual talk.
+
+## Bonus
+
+**Q.** Why did the constant break up with the variable?    
+**A.** Because the variable has changed since they met.
