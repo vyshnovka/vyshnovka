@@ -43,8 +43,3 @@ Don't hesitate to take a look at my portfolio.
 
 If you are interested in collaboration − send me an email to get ***exclusive access*** to an awesome CV.   
 You can also write me on Discord for a more casual talk.
-
-## Bonus
-
-**Q.** Why did the constant break up with the variable?    
-**A.** Because the variable has changed since they met.
