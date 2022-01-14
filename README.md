@@ -31,9 +31,15 @@ Main basis:
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
 
-Exceptional tools are indicated in the project descriptions.
+Exceptional tools are indicated in the project descriptions.   
 
-##     
+## Keep in touch
 
-If you are interested in collaboration − send me an email to get *exclusive access* to my awesome CV.   
-You can also write me on Discord (*vikulishna#1954*) for a more casual talk.
+Don't hesitate to take a look at my portfolio.
+
+If you are interested in collaboration − send me an email to get ***exclusive access*** to an awesome CV.   
+You can also write me on Discord for a more casual talk.
+
+[![image](https://custom-icon-badges.herokuapp.com/badge/Portfolio-67aabf?style=for-the-badge&logo=spaceinvaders&logoColor=white)](https://vyshnovka.github.io/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktoria.zheneral@gmail.com)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/344130090583719938/)
