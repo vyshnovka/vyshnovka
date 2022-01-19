@@ -42,3 +42,7 @@ Don't hesitate to take a look at my portfolio.
 
 If you are interested in collaboration − send me an email to get ***exclusive access*** to an awesome CV.   
 You can also write me on Discord for a more casual talk.
+
+*Sponsor my productivity with a cup of green tea!*
+
+[![image](https://img.shields.io/badge/Cup_Of_Tea-edae00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/vyshnovka)
