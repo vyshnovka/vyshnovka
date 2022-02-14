@@ -1,6 +1,6 @@
 # Howdy, partner!
 
-It's me, **Victoria**, and I'm a beginner developer.
+It's me, **Victoria**, and I'm a highly-motivated and enthusiastic junior developer.
 
 I'm currently (and protractedly) interested in **Web applications**, **Game development** and **3D modeling**.   
 Recently started working on procedural generation and non-euclidean spaces.
