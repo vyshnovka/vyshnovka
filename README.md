@@ -19,7 +19,6 @@ Basic skills:
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![image](https://custom-icon-badges.herokuapp.com/badge/Prolog-114477?style=for-the-badge&logo=swi-prolog&logoColor=white)
 
 ## Tools & Frameworks
