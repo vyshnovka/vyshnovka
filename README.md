@@ -2,7 +2,7 @@
 
 It's me, **Victoria**, and I'm a highly-motivated and enthusiastic junior developer.
 
-I'm currently (and protractedly) interested in **Web applications**, **Game development** and **3D modeling**.   
+In attempt to combine art school background, Bachelor's degree in Applied Informatics and pursuing Master's degree in Computed Science, I find myself currently (and protractedly) interested in **Game development**.   
 Recently started working on procedural generation and non-euclidean spaces.
 
 Looking for help with inspiration, ready to join some cool and intriguing projects. 
