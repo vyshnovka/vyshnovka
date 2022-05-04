@@ -3,23 +3,21 @@
 It's me, **Victoria**, and I'm a highly-motivated and enthusiastic junior developer.
 
 In attempt to combine art school background, Bachelor's degree in Applied Informatics and pursuing Master's degree in Computed Science, I find myself currently (and protractedly) interested in **Game development**.   
-Recently started working on procedural generation and non-euclidean spaces.
+
+Since the beginning of my journey I've been working on indie projects to amuse my friends and please my soul and step by step going along the path of creating a dream game.    
+Recently I started studying procedural generation, non-euclidean spaces and a tiny bit of graphics.
 
 Looking for help with inspiration, ready to join some cool and intriguing projects. 
 
 ## Languages
 
-Intermediate level:    
+Confident in:    
 ![image](https://img.shields.io/badge/HTML-e33c26?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-c4b112?style=for-the-badge&logo=javascript&logoColor=white) 
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-
-Basic skills:    
 ![image](https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![image](https://custom-icon-badges.herokuapp.com/badge/Prolog-114477?style=for-the-badge&logo=swi-prolog&logoColor=white)
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+
 
 ## Tools & Frameworks
 
@@ -29,12 +27,11 @@ Good at:
 
 Familiar with:    
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![image](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=white) 
-![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
+![image](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![image](https://img.shields.io/badge/OpenGL-5586a4?style=for-the-badge&logo=opengl&logoColor=white) 
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
-![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 
-Exceptional tools are indicated in the project descriptions.   
+Exceptional tools are indicated in the project description.   
 
 
 ## Keep in touch
