@@ -25,8 +25,9 @@ Good at:
 
 Familiar with:    
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![image](https://img.shields.io/badge/Aseprite-655561?style=for-the-badge&logo=Aseprite&logoColor=white) 
+![image](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 Exceptional tools are indicated in the project description. And basically it's various web tools.   
 
