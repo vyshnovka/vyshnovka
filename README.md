@@ -1,10 +1,9 @@
 # Howdy, partner!
 
-It's me, **Victoria**, and I'm a highly-motivated and enthusiastic junior developer.
+It's me, **Victoria**, and I'm a highly-motivated and enthusiastic game developer.
 
-In attempt to combine art school background, Bachelor's degree in Applied Informatics and pursuing Master's degree in Computed Science, I find myself currently (and protractedly) interested in **Game development**.   
-
-Since the beginning of my journey I've been working on indie projects to amuse my friends and please my soul and step by step going along the path of creating a dream game.    
+Since the beginning of my journey I've been working on **indie games** to amuse my friends and please my soul and step by step going along the path of creating smth worthwhile.    
+Mostly a programmer, but also a self-taught designer and occasional 3D artist. Good at algorithms and implementing ideas into functional code.    
 Recently I started studying procedural generation, non-euclidean spaces and a tiny bit of graphics.
 
 Looking for help with inspiration, ready to join some cool and intriguing projects. 
