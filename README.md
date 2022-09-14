@@ -28,7 +28,7 @@ Familiar with:
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-Exceptional tools are indicated in the project description. And basically it's various web tools.   
+Exceptional tools are indicated in the project description.   
 
 
 ## Keep in touch
