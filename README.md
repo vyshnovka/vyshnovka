@@ -25,6 +25,7 @@ Good at:
 Familiar with:    
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![image](https://img.shields.io/badge/OpenGL-5586a4?style=for-the-badge&logo=opengl&logoColor=white)
 
 Exceptional tools are indicated in the project description.   
 
