@@ -5,13 +5,12 @@ It's me, **Victoria**, and I'm a highly-motivated and enthusiastic game develope
 Mostly a programmer, but also a self-taught designer and occasional 3D artist. Good at algorithms and implementing ideas into functional code. 
 
 Since the beginning of my journey I've been working on **indie games** to amuse my friends and please my soul and step by step going along the path of creating smth worthwhile.    
-Recently I started studying procedural generation, non-euclidean spaces and a tiny bit of graphics.
+Currently interested in procedural generation, non-euclidean spaces and a tiny bit of graphics.
 
 Looking for help with inspiration, ready to join some cool and intriguing projects. 
 
 ## Languages
-
-Confident in:    
+   
 ![image](https://img.shields.io/badge/HTML-e33c26?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-c4b112?style=for-the-badge&logo=javascript&logoColor=white) 
@@ -20,10 +19,8 @@ Confident in:
 
 ## Tools & Frameworks
 
-Good at:  
-![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
-
-Familiar with:    
+![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![image](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
