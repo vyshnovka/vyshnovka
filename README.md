@@ -32,13 +32,13 @@ Exceptional tools are indicated in the project description.
 
 Don't hesitate to take a look at my portfolio webpage.
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyshnovka@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=vyshnovka@gmail.com&tf=cm)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyshnovka/)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/344130090583719938/)
 [![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://vyshnovka.itch.io/)
 
-If you are interested in collaboration − send me an email to get ***exclusive access*** to an awesome CV.   
-You can also write me on Discord for a more casual talk.
+If you are interested in collaboration − send me an email or connect on LinkedIn.    
+You can also drop a message on Discord for a more casual talk.
 
 *Sponsor my productivity with a cup of green tea!*
 
