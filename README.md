@@ -4,7 +4,7 @@ It's me, **Victoria**, and I'm a highly-motivated and enthusiastic game develope
 
 Mostly a programmer, but also a self-taught designer and occasional 3D artist. Good at algorithms and implementing ideas into functional code. 
 
-Since the beginning of my journey I've been working on **indie games** to amuse my friends and please my soul and step by step going along the path of creating smth worthwhile.    
+Since the beginning of my journey I've been working on **indie games** and step by step going along the path of creating smth worthwhile.    
 Currently interested in procedural generation, non-euclidean spaces and a tiny bit of graphics.
 
 Looking for help with inspiration, ready to join some cool and intriguing projects. 
@@ -30,7 +30,7 @@ Exceptional tools are indicated in the project description.
 
 ## Keep in touch
 
-Don't hesitate to take a look at my portfolio webpage.
+Don't hesitate to take a look at my portfolio webpage!
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=vyshnovka@gmail.com&tf=cm)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyshnovka/)
@@ -38,7 +38,7 @@ Don't hesitate to take a look at my portfolio webpage.
 [![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://vyshnovka.itch.io/)
 
 If you are interested in collaboration − send me an email or connect on LinkedIn.    
-You can also drop a message on Discord for a more casual talk.
+You can also drop me a message on Discord for a more casual talk.
 
 *Sponsor my productivity with a cup of green tea!*
 
