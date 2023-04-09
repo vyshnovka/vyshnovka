@@ -11,11 +11,9 @@ Looking for help with inspiration, ready to join some cool and intriguing projec
 
 ## Languages
    
-![image](https://img.shields.io/badge/HTML-e33c26?style=for-the-badge&logo=html5&logoColor=white) 
-![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![image](https://img.shields.io/badge/JavaScript-c4b112?style=for-the-badge&logo=javascript&logoColor=white) 
-![image](https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![image](https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![image](https://img.shields.io/badge/JavaScript-c4b112?style=for-the-badge&logo=javascript&logoColor=white) 
 
 ## Tools & Frameworks
 
