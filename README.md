@@ -2,7 +2,7 @@
 
 It's me, **Victoria**, and I'm a highly-motivated and enthusiastic game developer.
 
-Mostly a programmer, but also a self-taught designer and occasional 3D artist. Good at algorithms and implementing ideas into functional code. 
+Mostly a programmer, but also a self-taught designer and occasional artist. Good at algorithms and implementing ideas into functional code. 
 
 Since the beginning of my journey I've been working on **indie games** and step by step going along the path of creating smth worthwhile.    
 Currently interested in procedural generation, non-euclidean spaces and a tiny bit of graphics.
