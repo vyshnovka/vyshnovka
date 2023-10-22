@@ -5,7 +5,7 @@ It's me, **Victoria**, and I'm a highly-motivated and enthusiastic game develope
 Mostly a programmer, but also a self-taught designer and occasional artist. Passionate about translating wildest ideas into functional code to ensure immersive experience.
 
 Since the beginning of my journey I've been working on **indie games** and step by step going along the path of creating smth worthwhile.    
-Currently interested in procedural generation, non-euclidean spaces and a tiny bit of graphics.
+Interested in procedural generation, non-euclidean spaces and a tiny bit of graphics.
 
 Looking for help with inspiration, ready to join some cool and intriguing projects. 
 
