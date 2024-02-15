@@ -1,10 +1,10 @@
 # Howdy, partner!
 
-It's me, **Victoria**, and I'm an enthusiastic game developer with a Master's degree in Computer Science and 2 years of hands-on commercial experience.
+It's me, **Victoria**, and I'm an enthusiastic **game developer** with a Master's degree in Computer Science and 2 years of hands-on commercial experience.
 
-Mostly a programmer with a solid background in desktop and mobile development, but also a self-taught designer and occasional artist. Passionate about translating wildest ideas into functional code to ensure immersive experience.
+Mostly a programmer with a solid background in **desktop and mobile development**, but also a self-taught designer and occasional artist. Passionate about translating wildest ideas into functional code to ensure immersive experience.
 
-Interested in procedural generation, non-euclidean spaces and a tiny bit of graphics.
+Interested in _procedural generation_, _non-euclidean spaces_ and a tiny bit of _graphics_.
 
 Looking for help with inspiration, ready to join some exciting and intriguing projects. 
 
