@@ -1,17 +1,16 @@
 # Howdy, partner!
 
-It's me, **Victoria**, and I'm a highly-motivated and enthusiastic game developer.
+It's me, **Victoria**, and I'm an enthusiastic game developer with a Master's degree in Computer Science and 2 years of hands-on commercial experience.
 
-Mostly a programmer, but also a self-taught designer and occasional artist. Passionate about translating wildest ideas into functional code to ensure immersive experience.
+Mostly a programmer with a solid background in desktop and mobile development, but also a self-taught designer and occasional artist. Passionate about translating wildest ideas into functional code to ensure immersive experience.
 
-Since the beginning of my journey I've been working on **indie games** and step by step going along the path of creating smth worthwhile.    
 Interested in procedural generation, non-euclidean spaces and a tiny bit of graphics.
 
-Looking for help with inspiration, ready to join some cool and intriguing projects. 
+Looking for help with inspiration, ready to join some exciting and intriguing projects. 
 
 ## Languages
    
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white) 
 ![image](https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-c4b112?style=for-the-badge&logo=javascript&logoColor=white) 
 ![image](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +24,7 @@ Looking for help with inspiration, ready to join some cool and intriguing projec
 ![image](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
-Exceptional tools are indicated in the project description.   
+Exceptional tools are listed in the description of each individual project.   
 
 
 ## Keep in touch
