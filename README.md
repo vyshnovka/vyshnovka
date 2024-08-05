@@ -10,7 +10,7 @@ Looking for help with inspiration, ready to join some exciting and intriguing pr
 
 ## Languages
    
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white) 
+![image](https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACh0lEQVR4nO3azW9MURjH8UvFe2tRFQmxsGjYsJNuWImUFQ0LkdhQlv4EtKuyECr+AAuxoyyJlZ1QbwkrkbYaC/FSRBT9yE2OYNyZuXPvvOsvmeTO5D7nnO/cc59znuc5UTSv/0Tow3W8C5/4ui9qFWE9LmNOsm5iY9Sswgqcwhfl9RXnsSpqFmEhDuO1yvUGJ7Co0RA78Uh+PcOBRgBsCnO92rqFLfUA6A5z+5va6UdwFmtrAbA4zOX36qdPwXksqwbAgnju4oXGaRLHYqeSFWIb7moe3cP2Sp/C2RILWiM1hzNpQY7n7GwCo+gP3i1eKJdgHXZhBC9z9nE0DcjTjI1PxR2gI0UfHTiYA+hxGpDZDA2PoTPVI/+7r05cydDfbJrGK9WFzB7l9zt5rtJOoyqDjOWBKIC50yiQqWLTCWswjPGwsH3EAwyhp+DeDbhaqZeMqghypIj9fsyUsIuDrH1YjpP4XAlAtUEmkrxTgEjzz37HdOGPUcEYSo2pWiCjRaZTqSdRVlEDQHYn2A3nBSinWoD0Jtg9bEWQlQl2sWfKpahgDKXGVC2Qf9xu3vejUSC9CXbjeQHKqV4v+1ArglxMsOvBh6wwfw5Oke+1AJlMykVhICQPWmZBjDVYxH6gTJLiLfY2yxYl1qsSm8bVOI37wS3PhOs4K9LdbJvGWDfaYRv/S6NVCKzipF9FqlWoG6dPuzJAdIVpVZNQ94lsmg6JtLKZ9fgeHArhQM2SD4PyKY4cL2EPNsf7MiwNBaD+kDPLClAyqEuCGWniBN1IKogmT5nuqAiirZLYbVVWaLtCTx1Lb7exNWrhYujzhhRD26483VYHBtruCEeKQzXXWupQzbyifPoJFXLsQf8u6J4AAAAASUVORK5CYII=) 
 ![image](https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-c4b112?style=for-the-badge&logo=javascript&logoColor=white) 
 ![image](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
