@@ -21,8 +21,8 @@ Looking for help with inspiration, ready to join some exciting and intriguing pr
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![image](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![image](https://img.shields.io/badge/Aseprite-655561?style=for-the-badge&logo=aseprite&logoColor=white)
+![image](https://img.shields.io/badge/GIT-e84e31?style=for-the-badge&logo=git&logoColor=white) 
 
 Exceptional tools are listed in the description of each individual project.   
 
