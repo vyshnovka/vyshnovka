@@ -15,7 +15,6 @@ Looking for help with inspiration, ready to join some exciting and intriguing pr
 ![image](https://img.shields.io/badge/JavaScript-c4b112?style=for-the-badge&logo=javascript&logoColor=white) 
 ![image](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## Tools & Frameworks
@@ -34,12 +33,10 @@ Exceptional tools are listed in the description of each individual project.
 Don't hesitate to take a look at my portfolio webpage!
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=vyshnovka@gmail.com&su=[YOUR&nbsp;NAME]&nbsp;|&nbsp;[TOPIC]&tf=cm)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyshnovka/)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/344130090583719938/)
 [![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://vyshnovka.itch.io/)
 
-If you are interested in collaboration − send me an email or connect on LinkedIn.    
-You can also drop me a message on Discord for a more casual talk.
+If you are interested in collaboration − send me an email (or drop a message on Discord for a casual talk).
 
 *Sponsor my productivity with a cup of green tea!*
 
